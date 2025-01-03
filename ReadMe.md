@@ -12,10 +12,14 @@ For an overview of everything Raw Accel has to offer, please see the [guide](doc
 
 ## Development
 
-Development of Raw Accel is ongoing at https://github.com/a1xd/rawaccel. Bug reports and pull requests are always welcome.  Join [our Discord server](https://discord.gg/7pQh8zH) if you want to stay updated with releases or say hello.
+Development of Raw Accel is ongoing. See "User Interface 2.0" below for work on next release. Bug reports and pull requests are always welcome.  Join [our Discord server](https://discord.gg/7pQh8zH) if you want to stay updated with releases or say hello.
+
+### User Interface 2.0
+The next release of Raw Accel is planned to have a new User Interface. Work for this is ongoing at https://github.com/RawAccelOfficial/rawaccel/tree/userinterface. Check out the ReadMe in that branch if interested in contributing.
 
 ## External Websites
-The latest version of Raw Accel is always hosted [here on github](https://github.com/a1xd/rawaccel/releases). There is no other site or mirror where you can be sure get official versions of Raw Accel.   
+Raw Accel has moved from its old home at https://github.com/a1xd/rawaccel to https://github.com/RawAccelOfficial/rawaccel. (If you are unsure, you can check that the original link redirects to the new one.)  
+The latest version of Raw Accel is always hosted [here on github](https://github.com/RawAccelOfficial/rawaccel). There is no other site or mirror where you can be sure get official versions of Raw Accel.   
 Raw Accel is not affiliated with any external websites, such as rawaccel.net or rawaccel.com. If Raw Accel ever were to be affiliated with an external site, it would be mentioned here on github first.
 
 ## Credits
