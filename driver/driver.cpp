@@ -446,7 +446,7 @@ VOID
 WriteDelay()
 {
     LARGE_INTEGER interval;
-    interval.QuadPart = static_cast<LONGLONG>(ra::WRITE_DELAY) * -10000;
+    interval.QuadPart = static_cast<LONGLONG>(ra::WRITE_DELAY) * -1;
     KeDelayExecutionThread(KernelMode, FALSE, &interval);
 }
 
